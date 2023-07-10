@@ -1,0 +1,12 @@
+{
+  "dataset_path": "H:/IXI_DATA",
+  "batch_size": 64,
+  "learning_rate": 0.00005,
+  "weight_decay": 0.0006,
+  "epochs": 100,
+  "initial_lr_rampup": 20,
+  "3d": false,
+  "mixup": false,
+  "mixup_alpha": 0.4,
+  "save_path": "F:/pac-2019-master (2)/pac-2019-master/models/2d_nomix_axial_resnet50.pt"
+}
