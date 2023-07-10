@@ -1,2 +1,2 @@
-# Computer-vision-based-on-pytorch-
+# BrainAgePrediction Based on multi-directions Slices
 Computer vision based on pytorch 
